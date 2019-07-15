@@ -1,7 +1,7 @@
 
 
 
-var pagina = $("#content-apps h2").html();
+var pagina = $("#page-content h2").html();
 
 var lista = [];
 
