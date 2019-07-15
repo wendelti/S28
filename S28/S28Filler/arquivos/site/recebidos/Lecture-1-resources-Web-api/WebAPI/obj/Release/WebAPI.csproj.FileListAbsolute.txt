@@ -1,0 +1,16 @@
+C:\Users\Amr Swalha\documents\visual studio 2015\Projects\AmrSwalha\WebAPI\bin\Release\WebAPI.dll
+C:\Users\Amr Swalha\documents\visual studio 2015\Projects\AmrSwalha\WebAPI\bin\Release\WebAPI.pdb
+C:\Users\Amr Swalha\documents\visual studio 2015\Projects\AmrSwalha\WebAPI\bin\Release\DotNetNuke.dll
+C:\Users\Amr Swalha\documents\visual studio 2015\Projects\AmrSwalha\WebAPI\bin\Release\DotNetNuke.Web.dll
+C:\Users\Amr Swalha\documents\visual studio 2015\Projects\AmrSwalha\WebAPI\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Amr Swalha\documents\visual studio 2015\Projects\AmrSwalha\WebAPI\bin\Release\System.Web.Http.dll
+C:\Users\Amr Swalha\documents\visual studio 2015\Projects\AmrSwalha\WebAPI\obj\Release\WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Amr Swalha\documents\visual studio 2015\Projects\AmrSwalha\WebAPI\obj\Release\WebAPI.dll
+C:\Users\Amr Swalha\documents\visual studio 2015\Projects\AmrSwalha\WebAPI\obj\Release\WebAPI.pdb
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\bin\Release\WebAPI.dll.config
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\bin\Release\WebAPI.dll
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\bin\Release\WebAPI.pdb
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\obj\Release\WebAPI.csproj.CoreCompileInputs.cache
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\obj\Release\WebAPI.csproj.CopyComplete
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\obj\Release\WebAPI.dll
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\obj\Release\WebAPI.pdb

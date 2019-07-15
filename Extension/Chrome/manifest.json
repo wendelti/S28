@@ -1,0 +1,39 @@
+{
+  "name": "S28Filler",
+  "description": "Auxiliar de Preenchimento do formulário S28",
+  "version": "1.1",
+  "manifest_version": 2,
+  "permissions": ["downloads", "activeTab", "https://apps.jw.org/*"],
+  "background": {
+	"scripts": [ "background.js" ],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://apps.jw.org/*"],
+      "js": [ "jquery.min.js", "content-script.js", "bootstrap.min.css", "easy-autocomplete.min.css"
+        , "jquery.easy-autocomplete.min.js" ]
+    }
+  ],
+
+  "browser_action": {
+    "default_icon" : "icon.png",
+    "default_title": "S28Filler",
+    "default_popup": "popup.html"
+  },
+  
+  "commands": {
+
+    "Pular": {
+      "description": "Pular esta solicitação",
+      "suggested_key": { "default": "Ctrl+Left" }
+    },
+  
+
+    "Fazer": {
+      "description": "Fazer esta solicitação",
+      "suggested_key": { "default": "Ctrl+Right" }
+    }
+    
+  }
+}

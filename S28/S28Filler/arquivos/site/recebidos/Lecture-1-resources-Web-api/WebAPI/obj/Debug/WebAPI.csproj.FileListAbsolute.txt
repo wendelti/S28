@@ -1,0 +1,11 @@
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\bin\Debug\WebAPI.dll
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\bin\Debug\WebAPI.pdb
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\bin\Debug\DotNetNuke.dll
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\bin\Debug\DotNetNuke.Web.dll
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\bin\Debug\System.Web.Http.dll
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\obj\Debug\WebAPI.dll
+C:\S28\S28Filler\arquivos\site\recebidos\Lecture-1-resources-Web-api\WebAPI\obj\Debug\WebAPI.pdb

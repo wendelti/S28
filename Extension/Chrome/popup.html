@@ -1,0 +1,71 @@
+
+
+<html>
+    <header>
+
+        <link rel="stylesheet" href="bootstrap.min.css">
+        <script src="jquery.min.js"></script>
+        <script src="bootstrap.min.js" ></script> 
+
+        <script src="popup.js"></script>
+    </header>
+    <body>
+
+        <div class="container" style="width: 200px">
+            <div class="row">
+
+                <ul class="nav nav-pills nav-stacked col-sm-2 col-md-2" id="menu"> 
+                    <li><a href="#tab_a" data-toggle="pill">Informar Estoque</a></li>
+                    <li><a href="#tab_b" data-toggle="pill">Baixar Estoque</a></li>
+                    <li><a href="#tab_c" data-toggle="pill">Baixar Ribe</a></li>
+                    <li><a href="#tab_d" data-toggle="pill">Arredondar Compartilhamento</a></li>
+                </ul>
+
+                <div class="tab-content col-sm-10 col-md-10">
+
+                    <div class="tab-pane" id="tab_a">
+                        <h4>Estoque</h4>
+
+                
+                        <div class="row">
+                            <div class="col-md-6">
+
+                                <ul class="nav nav-pills nav-stacked" id="publicacoes">
+                                </ul>
+                                <input class="form-control custom-input-width pull-left" placeholder="Codigo" id="campo" type="text"> 
+
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                    
+                                    
+                                <button type="button" class="btn btn-danger"  id="limparLista">
+                                    X
+                                </button>
+
+                                <button type="button" class="btn btn-primary" id="enviarLista" >Enviar</button>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="tab-pane" id="tab_b">
+                    </div>
+                    <div class="tab-pane active" id="tab_c">
+                    </div>
+                    <div class="tab-pane" id="tab_d">
+                    </div>
+                </div>
+                          
+            </div>
+
+        </div>
+
+
+
+
+
+    </body>
+</html> 
