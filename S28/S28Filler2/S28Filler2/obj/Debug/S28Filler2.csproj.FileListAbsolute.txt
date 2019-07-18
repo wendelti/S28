@@ -1,0 +1,11 @@
+C:\Users\integralocal\source\repos\S28Filler2\S28Filler2\bin\Debug\S28Filler2.exe.config
+C:\Users\integralocal\source\repos\S28Filler2\S28Filler2\bin\Debug\S28Filler2.exe
+C:\Users\integralocal\source\repos\S28Filler2\S28Filler2\bin\Debug\S28Filler2.pdb
+C:\Users\integralocal\source\repos\S28Filler2\S28Filler2\bin\Debug\itextsharp.dll
+C:\Users\integralocal\source\repos\S28Filler2\S28Filler2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\integralocal\source\repos\S28Filler2\S28Filler2\bin\Debug\itextsharp.xml
+C:\Users\integralocal\source\repos\S28Filler2\S28Filler2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\integralocal\source\repos\S28Filler2\S28Filler2\obj\Debug\S28Filler2.csproj.CoreCompileInputs.cache
+C:\Users\integralocal\source\repos\S28Filler2\S28Filler2\obj\Debug\S28Filler2.csproj.CopyComplete
+C:\Users\integralocal\source\repos\S28Filler2\S28Filler2\obj\Debug\S28Filler2.exe
+C:\Users\integralocal\source\repos\S28Filler2\S28Filler2\obj\Debug\S28Filler2.pdb
